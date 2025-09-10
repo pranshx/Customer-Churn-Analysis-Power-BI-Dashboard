@@ -70,7 +70,7 @@ The dataset contains detailed customer information covering demographics, accoun
 - Customers with partners churn at 19.66%, while those without partners churn at 32.96%.  
 - Senior citizens churn more (41.68%) than younger customers (23.61%).  
 - Month-to-month contracts show the highest churn (42.71%), while two-year contracts have the lowest churn (2.83%).  
-- Churned customers raise more **technical tickets (2,173)** and incur higher monthly charges (~$74) compared to retained customers (~$61).  
+- Churned customers raise more technical tickets (2,173) and incur higher monthly charges ($74) compared to retained customers ($61).  
 - Fiber optic internet users churn more compared to DSL users.  
 - Customers without add-on services (backup, security, device protection, streaming) are more likely to churn.  
 
